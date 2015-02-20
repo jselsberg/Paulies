@@ -1,1 +1,32 @@
-/*custom styles*/
+
+body {
+    background-image: url("http://pauliesrestaurant.com/images/yezzipanini.jpg");
+}
+
+div.jumbotron {
+	background-image: url("http://pauliesrestaurant.com/images/restaurant.jpg");
+}
+
+div.paulies {
+	color: #FFFFFF;
+}
+
+div.info {
+	color: #FFFFFF;
+}
+
+nav.navbar-default{
+	background-color: #E6B800;
+}
+
+div.thumbnail{
+	width: 300px;
+	padding: 25px;
+	border: 15px solid black;
+	margin: 25px;
+	background-color: white;
+}
+
+a.btn_btn-default{
+	border: 5px: solid black;
+}
