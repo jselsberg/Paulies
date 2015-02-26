@@ -1,6 +1,5 @@
 
 body {
-    background-image: url("http://pauliesrestaurant.com/images/yezzipanini.jpg");
 }
 
 div.jumbotron {
@@ -9,10 +8,16 @@ div.jumbotron {
 
 div.paulies {
 	color: #FFFFFF;
+	font-family: Gill Sans;
+	text-shadow: 2px 2px #000000;
+	text-align: center;
 }
 
 div.info {
 	color: #FFFFFF;
+	font-family: Gill Sans;
+	text-align: center;
+	text-shadow: 1.5px 1.5px #000000;
 }
 
 nav.navbar-default{
