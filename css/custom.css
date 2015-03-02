@@ -1,37 +1,91 @@
 
-body {
+nav.navbar-default{
+	background-color:#80E680;
+	font-family: Gill Sans;
+	font-size: 110%;
 }
 
 div.jumbotron {
-	background-image: url("http://pauliesrestaurant.com/images/restaurant.jpg");
+	background-image: url("http://www.cccrow.com/images/kit-a/scb-detail.jpg");
 }
 
 div.paulies {
 	color: #FFFFFF;
 	font-family: Gill Sans;
-	text-shadow: 2px 2px #000000;
+	text-shadow: 3px 3px #000000;
 	text-align: center;
 }
 
-div.info {
-	color: #FFFFFF;
+p.info {
+	color: #000000;
 	font-family: Gill Sans;
+	font-weight: bold;
 	text-align: center;
-	text-shadow: 1.5px 1.5px #000000;
 }
 
-nav.navbar-default{
-	background-color: #E6B800;
+body {
+	background-image: url("http://www.fifteen.net/wp-content/themes/fifteen/images/paper-bg.jpg");
 }
 
-div.thumbnail{
-	width: 300px;
-	padding: 25px;
-	border: 15px solid black;
-	margin: 25px;
-	background-color: white;
+a.bookhere:link{
+	color: #00B88A;
 }
 
-a.btn_btn-default{
-	border: 5px: solid black;
+a.bookhere:visited{
+	color: #00B88A;
+}
+
+a.blog:link{
+	color: #00B88A;
+	position: relative;
+	left: 0%;
+	font-size: large;
+}
+
+a.blog:visited{
+	color: #00B88A;
+}
+
+img.social{
+	position: relative;
+	left: 40%;
+	margin-left: 5%;
+	width: 10%;
+	height: 10%;
+	border:0;
+}
+
+a:link{
+	color: #FFFFFF;
+}
+
+a:visited{
+	color: #FFFFFF;
+}
+
+a:hover{
+	color: #00B88A;
+	text-decoration: underline;
+}
+
+a.carousellink:link{
+	text-decoration: underline;
+}
+
+h1.carouselhead{
+	text-shadow: 3px 3px #000000;
+}
+
+h1{
+	font-weight: bold;
+}
+
+h1, h2, h3, h4, p{
+	text-align: center;
+	font-family: Gill Sans;
+}
+
+form{
+	text-align: center;
+	font-family: Gill Sans;
 }
