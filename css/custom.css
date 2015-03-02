@@ -27,6 +27,14 @@ body {
 	background-image: url("http://www.fifteen.net/wp-content/themes/fifteen/images/paper-bg.jpg");
 }
 
+a.barista:link{
+	color: #00B88A;
+}
+
+a.barista:visited{
+	color: #00B88A;
+}
+
 a.bookhere:link{
 	color: #00B88A;
 }
